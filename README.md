@@ -6,8 +6,8 @@ Live Site URL: [Live Demo](https://javascript-Employees-dash1.netlify.app)
 
 ## Screenshots
 
-![Screenshot](https://github.com/adolfmathebula/JavaScript-Notes-App/blob/main/images/screenshoot1.png)
+![Screenshot](https://github.com/adolfmathebula/JavaScript-forEach-and-filter-Methods-DOM-Manipulation-/blob/main/images/screenshoot1.png)
 
-![Screenshot](https://github.com/adolfmathebula/JavaScript-Notes-App/blob/main/images/screenshoot.png)
+![Screenshot](https://github.com/adolfmathebula/JavaScript-forEach-and-filter-Methods-DOM-Manipulation-/blob/main/images/screenshoot.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
