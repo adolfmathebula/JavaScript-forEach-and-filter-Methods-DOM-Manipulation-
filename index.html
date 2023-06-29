@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This is it</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <div class="top-bar">
+        <div class="logo">Employees</div>
+        <div class="tabs">
+            <span>Filter:</span>
+            <div class="tab" onclick="getAllEmployees()">All</div>
+            <div class="tab" onclick="getEmployees(`Software Engineering`)">Software</div>
+            <div class="tab" onclick="getEmployees(`Design`)">Design</div>
+            <div class="tab" onclick="getEmployees(`Marketing`)">Marketing</div>
+        </div>
+    </div>
+    <div class="line-main"></div>
+    <section id="app">
+        <div class="lists"></div>
+    </section>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
